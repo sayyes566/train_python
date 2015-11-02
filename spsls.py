@@ -56,4 +56,4 @@ rpsls("rock")
 #print number_to_name(0)
 
 #http://www.codeskulptor.org/#user40_G9jGkVRSwO_1.py
-
+#http://www.codeskulptor.org/#user40_G9jGkVRSwO_2.py
